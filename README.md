@@ -1,4 +1,4 @@
-# Daily Climate Change In the city of DEHLI Analysis.
+# Daily Climate Change In the city of DELHI Analysis.
 Project for information Systems and Business Intelligence, Università Federico II di Napoli
 
 The project focuses on the selection and application of Business Intelligence methodologies and techniques to extract insights from data, using Data Visualization, Machine/Deep Learning, and Time Series Analysis techniques.
