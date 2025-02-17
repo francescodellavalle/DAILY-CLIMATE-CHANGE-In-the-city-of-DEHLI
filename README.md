@@ -9,4 +9,4 @@ The project focuses on the selection and application of Business Intelligence me
 - The fourth project is a **Bonita workflow** based on a chosen use case.
 For implementation details and code, please refer to the attached documentation.
 
-![image](https://github.com/user-attachments/assets/74d81a72-9d48-485f-b962-4ff0305bb3b2)
+![image](https://github.com/user-attachments/assets/7c90ff85-b86f-4879-9c25-27695e29d073)
