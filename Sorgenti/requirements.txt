@@ -1,0 +1,5 @@
+pip install streamlit
+pip install statsmodels
+pip install plotly_express
+pip install scikit-learn
+pip install matplotlib
